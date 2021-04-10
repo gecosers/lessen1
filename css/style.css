@@ -1,0 +1,13 @@
+.date-bg {
+    background-color: #3D58A6;
+    width: 56px;
+    height: 56px;
+}
+
+.nav-a {
+    font-size: 22px;
+    color: #3D58A6;
+}
+.active {
+    color: #EE4036;
+}
