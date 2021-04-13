@@ -1,29 +1,115 @@
 .date-bg {
     background-color: #3D58A6;
+    color: cornsilk;
     width: 56px;
     height: 56px;
+    font-size: 48px;
 }
 
 .nav-a {
     font-size: 22px;
     color: #3D58A6;
 }
+
 .active {
     color: #EE4036;
 }
+
 .number {
     font-size: 16px;
     color: #999999;
 }
+
 .contant-title {
     color: #3D58A6;
     font-size: 20px;
-    text-align: center;
+ 
 }
+
 .a-contact {
     font-size: 16px;
     color: black;
 }
-.contact-ul {
-    text-align: center;
+
+
+.text {
+    border-width: 2px;
+    border-style: dashed;
+    border-color: darkblue;
+}
+
+
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.navigation {
+    display: inline-block;
+    vertical-align: middle;
+}   
+
+
+.nav-li {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.section-title {
+    font-size: 24px;
+    font: #000000;
+}
+
+.left-block,
+.right-block {
+    background-color: #F2F2F2;
+    width: 570px;
+    display: inline-block;
+    padding: 15px;
+}
+
+.left-block {
+    margin-right: 29px;
+}
+
+.block-image {
+        display: inline-block;
+        vertical-align: middle;
+        
+}
+
+.block-p {
+    display: inline-block;
+    width: 355px;
+    margin-left: 60px;
+    vertical-align: middle;
+}
+
+.map {
+    width: 874px;
+    height: 460px;  
+}
+
+.left-contact-contact,
+.right-block-contact {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.left-contact-contact {
+    margin-right: 55px;
+}
+
+.section-bg-contact {
+    background-color: #E6E6E6;
+    padding-top: 49px;
+     margin-top: 25px;
+}
+
+.container {
+    width: 1179px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: 0 auto;
 }
